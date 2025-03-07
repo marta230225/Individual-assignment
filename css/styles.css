@@ -5,11 +5,15 @@
 
 /* Styles for the body */
 
-.custom-color {
-	color: #bc8ba4;
+.resume-header h1 {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 3em;
+	font-weight: 700;
+	color: #864769;
 }
 
 .tagline {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	font-size: 1.5em;
 	font-weight: 700;
 	color: #b96f96;
@@ -28,11 +32,31 @@ body {
 }
 
 .resume-main {
-	background-color: #f9fff8;
+	background-color: #fdf9fb;
+}
+
+.resume-aside h2 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1.5em;
+	font-weight: 700;
+	color: #96b391;
 }
 
 .resume-aside {
-	background-color: #d3f0cf;
+	background-color: #e4f6e1;
+}
+	
+
+.portuguese-progress {
+	background-color: #c56363;
+}
+
+.english-progress {
+	background-color: #74d874;
+}
+
+.spanish-progress {
+	background-color: #0000ff;
 }
 
 /* Styles for lists in the document */
