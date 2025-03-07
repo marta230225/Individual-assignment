@@ -5,8 +5,18 @@
 
 /* Styles for the body */
 
+.custom-color {
+	color: #5d364a;
+}
+
+.tagline {
+	font-size: 1.5em;
+	font-weight: 700;
+	color: #b96f96;
+}
+
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -14,15 +24,15 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #eecdde;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #f9fff8;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #d3f0cf;
 }
 
 /* Styles for lists in the document */
