@@ -60,18 +60,6 @@ body {
 }
 	
 
-.portuguese-progress {
-	background-color: #c56363;
-}
-
-.english-progress {
-	background-color: #74d874;
-}
-
-.spanish-progress {
-	background-color: #0000ff;
-}
-
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
@@ -82,9 +70,6 @@ body {
 	margin-left: -1em;
 }
 
-.biography-details li::before {
-	color: #EE7623;
-}
 
 .biography-details li, .skill-list li {
 	padding-left: 1em;
